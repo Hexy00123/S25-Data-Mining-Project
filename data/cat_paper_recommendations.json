@@ -1,0 +1,258 @@
+[
+  {
+    "paper_index": 0,
+    "title": "Patterns in the jump-channel statistics of open quantum systems",
+    "abstract": "  A continuously measured quantum system with multiple jump channels gives rise\nto a stochastic process described by random jump times and random emitted\nsymbols, representing each jump channel. While much is known about the waiting\ntime distributions, very little is known about the statistics of the emitted\nsymbols. In this letter we fill in this gap. First, we provide a full\ncharacterization of the resulting stochastic process, including efficient ways\nof simulating it, as well as determining the underlying memory structure.\nSecond, we show how to unveil patterns in the stochastic evolution: Some\nsystems support closed patterns, wherein the evolution runs over a finite set\nof states, or at least recurring states. But even if neither is possible, we\nshow that one may still cluster the states approximately, based on their\nability to predict future outcomes. We illustrate these ideas by studying\ntransport through a boundary-driven one-dimensional XY spin chain.\n",
+    "categories": "quant-ph cond-mat.stat-mech",
+    "final_cats": [
+      "cond-mat",
+      "quant-ph"
+    ],
+    "recommendations": [
+      {
+        "journal": "AstrophysicsandSpaceScience",
+        "score": 2.2112998962402344
+      },
+      {
+        "journal": "CanMathCanMath",
+        "score": 2.129300117492676
+      },
+      {
+        "journal": "DiscreteAppliedMathematics",
+        "score": 2.1115000247955322
+      },
+      {
+        "journal": "JournalofDifferentialEquations",
+        "score": 2.109499931335449
+      },
+      {
+        "journal": "ArchMath",
+        "score": 1.1030000448226929
+      },
+      {
+        "journal": "StatistPhys",
+        "score": 1.0671000480651855
+      },
+      {
+        "journal": "PhysRevB",
+        "score": 1.0642999410629272
+      },
+      {
+        "journal": "CombinatorProbabComp",
+        "score": 1.0592999458312988
+      },
+      {
+        "journal": "AnnalsofProbability",
+        "score": 1.0547000169754028
+      },
+      {
+        "journal": "IsraelJournalofMathematics",
+        "score": 1.051300048828125
+      }
+    ]
+  },
+  {
+    "paper_index": 1,
+    "title": "New low mass ratio contact binaries in the Catalina Sky Survey",
+    "abstract": "  We present the identification and photometric analysis of 30 new low mass\nratio (LMR) totally eclipsing contact binaries found in Catalina Sky Survey\ndata. The LMR candidates are identified using Fourier coefficients and visual\ninspection. We perform a detailed scan in the parameter plane of mass-ratio (q)\nversus inclination (i) using Phoebe-0.31 scripter to derive the best (q,i) pair\nfor the initial models. The relative physical parameters are determined from\nthe final model of each system. A Monte-Carlo approach was adopted to derive\nthe parameter errors. The resulting parameters confirm the identification. The\napproximate absolute physical parameters of the systems are estimated based on\nthe light curve solutions and Gaia early Data Release 3 distances. Twelve out\nof 30 new systems have fill-out factors $f\\gt 50 \\%$ and $q \\leq 0.25$ (deep\ncontact LMR systems), and 8 of them, to within errors, are extreme LMR deep\nsystems with $q\\leq0.1$. We discuss the evolutionary status of the 30 LMR\nsystems in comparison with the most updated catalog of LMR systems from the\nliterature. The scenario of the LMR systems as pre-merger candidates forming\nfast rotating stars is investigated for all systems, new and old, based both on\nHut's stability criteria and critical instability mass ratio ($q_{inst}$)\nrelation. CSS$\\_$J075848.2+125656, with $\\frac{q}{q_{inst}}=1.23\\pm 0.23$, and\nCSS$\\_$J093010.1-021624, with $\\frac{q}{q_{inst}}=1.25\\pm 0.23$, can be\nconsidered as merger candidates.\n",
+    "categories": "astro-ph.SR",
+    "final_cats": [
+      "astro-ph"
+    ],
+    "recommendations": [
+      {
+        "journal": "ActaPhysHung",
+        "score": 1.3666000366210938
+      },
+      {
+        "journal": "EurPhysSpecialTopics",
+        "score": 1.2345000505447388
+      },
+      {
+        "journal": "CondensMatterPhys",
+        "score": 1.1891000270843506
+      },
+      {
+        "journal": "PhysRevv",
+        "score": 1.1646000146865845
+      },
+      {
+        "journal": "ChaosSolitonsandFractals",
+        "score": 1.1550999879837036
+      },
+      {
+        "journal": "PhyRev",
+        "score": 1.142300009727478
+      },
+      {
+        "journal": "JournalofMathematicalAnalysisandApplications",
+        "score": 1.1344000101089478
+      },
+      {
+        "journal": "ScientificReports9",
+        "score": 1.1299999952316284
+      },
+      {
+        "journal": "PhysRevAccelBeams",
+        "score": 1.1167000532150269
+      },
+      {
+        "journal": "PhysChem",
+        "score": 1.1088999509811401
+      }
+    ]
+  },
+  {
+    "paper_index": 2,
+    "title": "Indexed Markov Chains for financial data: testing for the number of\n  states of the index process",
+    "abstract": "  A new branch based on Markov processes is developing in the recent literature\nof financial time series modeling. In this paper, an Indexed Markov Chain has\nbeen used to model high frequency price returns of quoted firms. The\npeculiarity of this type of model is that through the introduction of an Index\nprocess it is possible to consider the market volatility endogenously and two\nvery important stylized facts of financial time series can be taken into\naccount: long memory and volatility clustering. In this paper, first we propose\na method for the optimal determination of the state space of the Index process\nwhich is based on a change-point approach for Markov chains. Furthermore we\nprovide an explicit formula for the probability distribution function of the\nfirst change of state of the index process. Results are illustrated with an\napplication to intra-day prices of a quoted Italian firm from January $1^{st}$,\n2007 to December $31^{st}$ 2010.\n",
+    "categories": "q-fin.ST",
+    "final_cats": [
+      "q-fin"
+    ],
+    "recommendations": [
+      {
+        "journal": "AnnalsofAppliedProbability",
+        "score": 0.9886000156402588
+      },
+      {
+        "journal": "Physica",
+        "score": 0.968999981880188
+      },
+      {
+        "journal": "ScientificReports8",
+        "score": 0.9627000093460083
+      },
+      {
+        "journal": "SciRep",
+        "score": 0.9603999853134155
+      },
+      {
+        "journal": "EuropeanPhysicalJournal",
+        "score": 0.9124000072479248
+      },
+      {
+        "journal": "StatMech",
+        "score": 0.9103000164031982
+      },
+      {
+        "journal": "TheEuropeanPhysicalJournal",
+        "score": 0.9085999727249146
+      },
+      {
+        "journal": "JournalofPhysicsConferenceSeries",
+        "score": 0.9047999978065491
+      },
+      {
+        "journal": "Entropy",
+        "score": 0.8970999717712402
+      },
+      {
+        "journal": "EPL",
+        "score": 0.8902999758720398
+      }
+    ]
+  },
+  {
+    "paper_index": 3,
+    "title": "Estimation for stochastic damping Hamiltonian systems under partial\n  observation. III. Diffusion term",
+    "abstract": "  This paper is the third part of our study started with Cattiaux, Le\\'{o}n and\nPrieur [Stochastic Process. Appl. 124 (2014) 1236-1260; ALEA Lat. Am. J.\nProbab. Math. Stat. 11 (2014) 359-384]. For some ergodic Hamiltonian systems,\nwe obtained a central limit theorem for a nonparametric estimator of the\ninvariant density [Stochastic Process. Appl. 124 (2014) 1236-1260] and of the\ndrift term [ALEA Lat. Am. J. Probab. Math. Stat. 11 (2014) 359-384], under\npartial observation (only the positions are observed). Here, we obtain\nsimilarly a central limit theorem for a nonparametric estimator of the\ndiffusion term.\n",
+    "categories": "math.PR",
+    "final_cats": [
+      "math"
+    ],
+    "recommendations": [
+      {
+        "journal": "Sensors",
+        "score": 1.236799955368042
+      },
+      {
+        "journal": "PhysRevFluids6",
+        "score": 1.2269999980926514
+      },
+      {
+        "journal": "ScientificReports7",
+        "score": 1.198199987411499
+      },
+      {
+        "journal": "Neurocomputing",
+        "score": 1.1698999404907227
+      },
+      {
+        "journal": "OpticsExpress",
+        "score": 1.1607999801635742
+      },
+      {
+        "journal": "PRA",
+        "score": 1.15339994430542
+      },
+      {
+        "journal": "AmericanJournalofPhysics",
+        "score": 1.13100004196167
+      },
+      {
+        "journal": "ChinesePhys",
+        "score": 1.121000051498413
+      },
+      {
+        "journal": "IEEEAccess",
+        "score": 1.118499994277954
+      },
+      {
+        "journal": "Universe",
+        "score": 1.1167999505996704
+      }
+    ]
+  },
+  {
+    "paper_index": 4,
+    "title": "Relaxation of the Bose-condensate oscillations in the mesoscopic system\n  at T=0",
+    "abstract": "  The general system is given of nonlinear equations describing dissipationless\nevolution of the oscillating Bose-condensate. The relaxation of transverse\noscillations of the condensate in a trap of the cylindric symmetry is\nconsidered. The evolution occurs due to parametric resonance coupling the\ntransverse mode with the longitudinal ones. The nonlinear rescattering in the\nsubsystem of discrete longitudinal modes results in suppression of the return\nof energy, yielding dissipationless nonmonotonic relaxation of transverse\noscillations in the condensate.\n",
+    "categories": "cond-mat.stat-mech cond-mat.mes-hall",
+    "final_cats": [
+      "cond-mat"
+    ],
+    "recommendations": [
+      {
+        "journal": "AstrophysicsandSpaceScience",
+        "score": 1.1119999885559082
+      },
+      {
+        "journal": "JournalofDifferentialEquations",
+        "score": 1.0600999593734741
+      },
+      {
+        "journal": "DiscreteAppliedMathematics",
+        "score": 1.0516999959945679
+      },
+      {
+        "journal": "JournalOfArtificialIntelligenceResearchVolumepages",
+        "score": 1.041100025177002
+      },
+      {
+        "journal": "AstrophysLett",
+        "score": 1.0384999513626099
+      },
+      {
+        "journal": "PoSLATTICE",
+        "score": 1.0307999849319458
+      },
+      {
+        "journal": "DansDesignAutomationandTestinEuropeDATE'MunichAllemagne",
+        "score": 1.0269999504089355
+      },
+      {
+        "journal": "CanMathCanMath",
+        "score": 1.0216000080108643
+      },
+      {
+        "journal": "AstrophysicalJournal",
+        "score": 1.0210000276565552
+      },
+      {
+        "journal": "EPJWebConf",
+        "score": 1.0197999477386475
+      }
+    ]
+  }
+]
